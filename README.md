@@ -13,6 +13,8 @@ This project uses lot of stuff as:
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
+- [React Leaflet](https://react-leaflet.js.org/) - React components for Leaflet maps
+- [Styled Icons](https://styled-icons.dev/)@styled-icons/evaicons-outline/CloseOutline
 
 ## Getting Started
 
