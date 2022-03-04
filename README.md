@@ -14,7 +14,12 @@ This project uses lot of stuff as:
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
 - [React Leaflet](https://react-leaflet.js.org/) - React components for Leaflet maps
-- [Styled Icons](https://styled-icons.dev/)@styled-icons/evaicons-outline/CloseOutline
+- [Styled Icons](https://styled-icons.dev/)
+- [GraphCms](https://app.graphcms.com/)
+- [graphql-request](https://github.com/prisma-labs/graphql-request)
+- [Graphql Code Generator](https://www.graphql-code-generator.com/)
+
+
 
 ## Getting Started
 

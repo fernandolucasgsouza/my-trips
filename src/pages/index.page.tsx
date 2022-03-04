@@ -6,7 +6,7 @@ const Map = dynamic(() => import('./components/Map/index.page'), {
     ssr: false,
 });
 
-export default function Home() {
+export default function HomePage() {
     return (
         <>
             <LinkWrapper href="/about">
