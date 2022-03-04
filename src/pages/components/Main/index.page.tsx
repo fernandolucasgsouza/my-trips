@@ -1,22 +1,11 @@
 import * as Styles from './styles.page';
 
 const Main = () => (
-    <Styles.Wrapper>
-        <Styles.Header>
-            <Styles.Logo
-                src="/images/logo.png"
-                alt="imagem de um átomo que representa linguagem"
-            ></Styles.Logo>
-            <Styles.Title>Fernando Developer</Styles.Title>
-        </Styles.Header>
-        <Styles.Description>
-            NextJs, TypeScript, e Styled Components.
-        </Styles.Description>
-        <Styles.Ilustration
-            src="/images/programmer-rafiki.svg"
-            alt="imagem de desenvolvedor de frente para um computador"
-        />
-    </Styles.Wrapper>
+   <div>
+       <h1>Fernando Lucas</h1>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A delectus numquam placeat amet magni doloremque alias. In officiis reiciendis aliquam minima adipisci ullam est sunt ex! Dolorem iste asperiores quas?</p>
+       <a href="#">Lorem ipsum</a>
+   </div>
 );
 
 export default Main;

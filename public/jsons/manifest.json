@@ -1,6 +1,6 @@
 {
-    "name": "Boilerplate App",
-    "short_name": "Boilerplate App",
+    "name": "Minhas Viagens App",
+    "short_name": "Minhas Viagens",
     "icons": [
       {
         "src": "/icons/icon-192.png",
@@ -14,9 +14,9 @@
         "type": "image/png"
       }
     ],
-    "theme_color": "#1f62e9",
-    "background_color": "#1f62e9",
-    "descriprion":"Boilerplate pwa",
+    "theme_color": "#06092b",
+    "background_color": "#06092b",
+    "descriprion":"Minhas Viagens",
     "start_url": "/",
     "display": "standalone",
     "orientation": "portrait"
