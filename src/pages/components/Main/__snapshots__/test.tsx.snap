@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render component <Main /> should render the heading 1`] = `
+.c0 {
+  background-color: #06092b;
+  color: #fff;
+  width: 100%;
+  padding: 5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  text-align: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.c2 {
+  width: 4rem;
+}
+
+.c3 {
+  font-size: 2.5rem;
+}
+
+.c4 {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.c5 {
+  width: min(30rem,100%);
+  margin: 3rem auto;
+}
+
+<main
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <img
+      alt="imagem de um átomo que representa linguagem"
+      class="c2"
+      src="/images/logo.png"
+    />
+    <h1
+      class="c3"
+    >
+      Fernando Developer
+    </h1>
+  </div>
+  <h2
+    class="c4"
+  >
+    NextJs, TypeScript, e Styled Components.
+  </h2>
+  <img
+    alt="imagem de desenvolvedor de frente para um computador"
+    class="c5"
+    src="/images/programmer-rafiki.svg"
+  />
+</main>
+`;
